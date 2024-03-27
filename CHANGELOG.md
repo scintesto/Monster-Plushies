@@ -2,6 +2,7 @@
 
 -  V1.2.6 Added in the **Thumper Plushie!** Interact with it and the plushie will Bite at you!
    - The Thumper Plushie spawns in as often as the Eyeless Dog Plushie, This can be changed in the Config
+   - Added in a github link
 -  V1.2.5 Fixed the README
 -  V1.2.4 Added in the **Eyeless Dog Plushie!** Interact with it and the plushie will lunge at you! Eyeless Dog plushie spawns as often as forest giant and on every map by default, this can be changed in the Config
 -  V1.2.3 Added in the **Nutcracker Plushie!** Interact with it and it will pop out and look around for a bit. By default spawns only on Rend, Dine and Titan, it has a low spawn rate, About as much as the Masked Plushies. this can be changed in the Config however
