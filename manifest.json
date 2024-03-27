@@ -1,7 +1,7 @@
 {
     "name": "Monster_Plushies",
     "version_number": "1.2.6",
-    "website_url": "https://www.youtube.com/@scintesto",
+    "website_url": "https://github.com/scintesto/Monster-Plushies/tree/main",
     "description": "Adds monsters from the game as Plushies! Check the README to see what plushies are in at the moment",
     "dependencies": [
 "BepInEx-BepInExPack-5.4.2100",
