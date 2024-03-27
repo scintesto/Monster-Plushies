@@ -1,0 +1,60 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+    <AnalysisLevel>latest-recommended</AnalysisLevel>
+    <EnableNETAnalyzers>True</EnableNETAnalyzers>
+  </PropertyGroup>
+
+	<PropertyGroup>
+		<LangVersion>latest</LangVersion>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="ServiceStack.Text" Version="8.2.2" />
+	</ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>..\..\Ultrakillplushies\Ultrakillplushies\bin\Debug\netstandard2.1\0Harmony.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>..\..\Ultrakillplushies\Ultrakillplushies\bin\Debug\netstandard2.1\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="BepInEx">
+      <HintPath>..\..\Ultrakillplushies\Ultrakillplushies\bin\Debug\netstandard2.1\BepInEx.dll</HintPath>
+    </Reference>
+    <Reference Include="BepInEx.Harmony">
+      <HintPath>..\..\Ultrakillplushies\Ultrakillplushies\bin\Debug\netstandard2.1\BepInEx.Harmony.dll</HintPath>
+    </Reference>
+    <Reference Include="BepInEx.Preloader">
+      <HintPath>..\..\Ultrakillplushies\Ultrakillplushies\bin\Debug\netstandard2.1\BepInEx.Preloader.dll</HintPath>
+    </Reference>
+    <Reference Include="com.sigurd.csync">
+      <HintPath>C:\Users\scint\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Testing other mods\BepInEx\plugins\Sigurd-CSync\CSync\com.sigurd.csync.dll</HintPath>
+    </Reference>
+    <Reference Include="DissonanceVoip">
+      <HintPath>..\..\Ultrakillplushies\Ultrakillplushies\bin\Debug\netstandard2.1\DissonanceVoip.dll</HintPath>
+    </Reference>
+    <Reference Include="HarmonyXInterop">
+      <HintPath>..\..\Ultrakillplushies\Ultrakillplushies\bin\Debug\netstandard2.1\HarmonyXInterop.dll</HintPath>
+    </Reference>
+    <Reference Include="LC_API">
+      <HintPath>..\..\Ultrakillplushies\Ultrakillplushies\bin\Debug\netstandard2.1\LC_API.dll</HintPath>
+    </Reference>
+    <Reference Include="LethalLib">
+      <HintPath>..\..\Ultrakillplushies\Ultrakillplushies\bin\Debug\netstandard2.1\LethalLib.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>..\..\Ultrakillplushies\Ultrakillplushies\bin\Debug\netstandard2.1\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AssetBundleModule">
+      <HintPath>..\..\Ultrakillplushies\Ultrakillplushies\bin\Debug\netstandard2.1\UnityEngine.AssetBundleModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>..\..\Ultrakillplushies\Ultrakillplushies\bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

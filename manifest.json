@@ -1,0 +1,12 @@
+{
+    "name": "Monster_Plushies",
+    "version_number": "1.2.6",
+    "website_url": "https://www.youtube.com/@scintesto",
+    "description": "Adds monsters from the game as Plushies! Check the README to see what plushies are in at the moment",
+    "dependencies": [
+"BepInEx-BepInExPack-5.4.2100",
+"Evaisa-LethalLib-0.14.4",
+"Evaisa-HookGenPatcher-0.0.5",
+"Sigurd-CSync-3.1.1"
+    ]
+}

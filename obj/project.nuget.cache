@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "yNWeEfAtG6M/ph5iCwbjzkpkmA2ik3RFNK6+gUEar3rCLf2MZy9ec6yjx6JDkpKqAQnHgi2LfBGlDZWCQbsb6Q==",
+  "success": true,
+  "projectFilePath": "D:\\games\\lethal modding\\visualstudio\\MonsterPlushies\\MonsterPlushies\\MonsterPlushies.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\scint\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\scint\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\scint\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\scint\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\scint\\.nuget\\packages\\servicestack.text\\8.2.2\\servicestack.text.8.2.2.nupkg.sha512",
+    "C:\\Users\\scint\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\scint\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "C:\\Users\\scint\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\scint\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\scint\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\scint\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
