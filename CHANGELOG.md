@@ -1,5 +1,8 @@
 # Changelog   
 
+-  V1.2.8 Fixed Comedys mouth looking wonky when squeezing.
+   fixed a thing in the config, i dont know code and me even having to do this shows that 
+-  V1.2.7 Updated the mod to use the latest version of lethal lib
 -  V1.2.6 Added in the **Thumper Plushie!** Interact with it and the plushie will Bite at you!
    - The Thumper Plushie spawns in as often as the Eyeless Dog Plushie, This can be changed in the Config
    - Added in a github link

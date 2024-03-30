@@ -27,3 +27,8 @@ This mod is compatible with Lethal Company Version v47/v49.
 - Sigurd for CSync
 - Malcolm for his great tutorial on Youtube that got me into lethal modding https://youtu.be/971OlPcVUHM?si=McN5FoA7ocYMxvcb
 - Lethal company Modding Discord servers, Without help from the lovley folks in these servers i would have lost motavation a long time ago. If you need help with making mods then head over there and ask for help
+
+## To do
+-  Baboon Hawk plushie
+-  Spore Lizard plushie
+-  Maybe snare flea, ghost girl, circuit bees, manticoil, and slime plushies if I get bored

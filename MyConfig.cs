@@ -50,7 +50,7 @@ namespace MonsterPlushies {
     //COIL HEAD
 
     [DataContract]
-    public class CoilConfig : SyncedConfig<MyConfig>
+    public class CoilConfig : SyncedConfig<CoilConfig>
     {
         [DataMember]
         public SyncedEntry<int> CoilSpawnWeight;
@@ -89,7 +89,7 @@ namespace MonsterPlushies {
     //MASKED
 
     [DataContract]
-    public class ComedyTragedyConfig : SyncedConfig<MyConfig>
+    public class ComedyTragedyConfig : SyncedConfig<ComedyTragedyConfig>
     {
         [DataMember]
         public SyncedEntry<int> CTSpawnWeight;
@@ -128,7 +128,7 @@ namespace MonsterPlushies {
     //BUNKER SPIDER
 
     [DataContract]
-    public class BunkerSpiderConfig : SyncedConfig<MyConfig>
+    public class BunkerSpiderConfig : SyncedConfig<BunkerSpiderConfig>
     {
         [DataMember]
         public SyncedEntry<int> BunkSpawnWeight;
@@ -167,7 +167,7 @@ namespace MonsterPlushies {
     //LootBug
 
     [DataContract]
-    public class LootbugConfig : SyncedConfig<MyConfig>
+    public class LootbugConfig : SyncedConfig<LootbugConfig>
     {
         [DataMember]
         public SyncedEntry<int> LootSpawnWeight;
@@ -206,7 +206,7 @@ namespace MonsterPlushies {
     //Jester
 
     [DataContract]
-    public class JeConfig : SyncedConfig<MyConfig>
+    public class JeConfig : SyncedConfig<JeConfig>
     {
         [DataMember]
         public SyncedEntry<int> JestSpawnWeight;
@@ -245,7 +245,7 @@ namespace MonsterPlushies {
     //Giant
 
     [DataContract]
-    public class GiantConfig : SyncedConfig<MyConfig>
+    public class GiantConfig : SyncedConfig<GiantConfig>
     {
         [DataMember]
         public SyncedEntry<int> GiantSpawnWeight;
@@ -283,7 +283,7 @@ namespace MonsterPlushies {
     //Nutcracker
 
     [DataContract]
-    public class nutConfig : SyncedConfig<MyConfig>
+    public class nutConfig : SyncedConfig<nutConfig>
     {
         [DataMember]
         public SyncedEntry<int> NutSpawnWeight;
@@ -322,7 +322,7 @@ namespace MonsterPlushies {
     //Eyedog
 
     [DataContract]
-    public class eyeConfig : SyncedConfig<MyConfig>
+    public class eyeConfig : SyncedConfig<eyeConfig>
     {
         [DataMember]
         public SyncedEntry<int> DogSpawnWeight;
@@ -361,7 +361,7 @@ namespace MonsterPlushies {
     //Thumper
 
     [DataContract]
-    public class ThumperConfig : SyncedConfig<MyConfig>
+    public class ThumperConfig : SyncedConfig<ThumperConfig>
     {
         [DataMember]
         public SyncedEntry<int> ThumpSpawnWeight;

@@ -28,7 +28,7 @@ namespace MonsterPlushies
     {      
         const string GUID = "scin.monsterplushies";
         const string NAME = "Monster Plushies";
-        const string VERSION = "1.2.6";
+        const string VERSION = "1.2.8";
 
         public static MonsterPlushies? instance;
 
